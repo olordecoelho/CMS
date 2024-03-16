@@ -25,10 +25,10 @@ Este é um projeto fullstack de um blog desenvolvido com PHP. O projeto consiste
 1. Navegue até a pasta XAMPP/htdocs;
    
 2. Clone este repositório:
-   '''bash git clone https://github.com/seu-usuario/nome-do-repositorio.git '''
+   ```bash git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
    
 3. Abra o navegador e cole o caminho:
-   '''bash http://localhost/CMS/
+   ``` http://localhost/CMS/ ```
    
 4. Voilà...
    ![Voilà](page.png)
