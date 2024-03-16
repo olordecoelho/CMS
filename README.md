@@ -25,7 +25,7 @@ Este é um projeto fullstack de um blog desenvolvido com PHP. O projeto consiste
 1. Navegue até a pasta XAMPP/htdocs;
    
 2. Clone este repositório:
-   ``` git clone https://github.com/seu-usuario/nome-do-repositorio.git ```
+   ``` git clone git@github.com:olordecoelho/CMS.git ```
    
 3. Abra o navegador e cole o caminho:
    ``` http://localhost/CMS/ ```
