@@ -24,7 +24,7 @@ if (isset($_POST['email'])) {
         $stm->close();
     }
 }else{
-    echo'Não asdfkaçdjf';
+    echo'';
 }
 ?>
 
